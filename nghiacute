@@ -1,1 +1,10 @@
-# Shadowrocket config test
+#!name = My Shadowrocket Config
+#!desc = Config cá nhân
+
+[Rule]
+DOMAIN-SUFFIX,google.com,DIRECT
+DOMAIN-SUFFIX,github.com,DIRECT
+FINAL,DIRECT
+
+[MITM]
+hostname = %APPEND%
