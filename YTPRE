@@ -5,7 +5,7 @@
 #!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
 
 [MITM]
-hostname = %APPEND% api.revenuecat.com,spclient.wg.spotify.com,redirector*.googlevideo.com,*.googlevideo.com,www.youtube.com,s.youtube.com,youtubei.googleapis.com,adservice.google.com,securepubads.g.doubleclick.net
+hostname = %APPEND% spclient.wg.spotify.com,redirector*.googlevideo.com,*.googlevideo.com,www.youtube.com,s.youtube.com,youtubei.googleapis.com,adservice.google.com,securepubads.g.doubleclick.net
 
 [Rule]
 AND,((DOMAIN-SUFFIX,googlevideo.com), (PROTOCOL,UDP)),REJECT
