@@ -415,7 +415,6 @@ if (ua.includes("Locket")) {
                     { overlay_id: "caption:q6", source: "remote", caption: { background: { colors: ["#A8D8EA", "#B8C9F2", "#D5DDF8"] }, max_lines: 1, text: "CKC 🏫", text_color: "#183153", type: "static_content" } },
                     { overlay_id: "caption:du_an_ma", source: "remote", caption: { background: { colors: ["#263238", "#455A64"] }, icon: { data: "👻", type: "emoji" }, max_lines: 1, text: "dự án ma", text_color: "#FFFFFFE6", type: "static_content" } }
                 ]
-                ]
             },
             {
                 section: "🎨 Tình yêu & Cơm chó 💕",
