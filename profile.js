@@ -406,11 +406,16 @@ if (ua.includes("Locket")) {
             {
                 section: "🎨 Decorative by NGHIA",
                 items: [
-                    { overlay_id: "caption:NGHIA CUTE", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, max_lines: 1, text: "💻 NGHĨA CUTE ", text_color: "#183153", type: "static_content" } },
-                    { overlay_id: "caption:XHUY", source: "remote", caption: { background: { colors: ["#FFD6A5", "#FFF1A8", "#FFC4D6"] }, max_lines: 1, text: "NGHẼO 🐎", text_color: "#633B24", type: "static_content" } },
-                    { overlay_id: "caption:PHUNG", source: "remote", caption: { background: { colors: ["#2C1A0E", "#5D4037", "#D7A86E"] }, icon: { data: "🐕", type: "emoji" }, max_lines: 1, text: "XHY DA DEN", text_color: "#FFFFFFE6", type: "static_content" } },
-                    { overlay_id: "caption:T.HUY", source: "remote", caption: { background: { colors: ["#2E7D32", "#66BB6A"] }, icon: { data: "🐍", type: "emoji" }, max_lines: 1, text: "Phụng", localized_text: { en: "Snake Vibes", vn: "Chất rắn" }, text_color: "#FFFFFFE6", type: "static_content" } },
+                    { overlay_id: "caption:katemnguyen", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, max_lines: 1, text: "💻 NGHIA CUTE", text_color: "#183153", type: "static_content" } },
+                    { overlay_id: "caption:q0", source: "remote", caption: { background: { colors: ["#F4BFD3", "#F9D9CF", "#DCCDF5"] }, max_lines: 1, text: "TRÙM CKC", text_color: "#FFFFFF", type: "static_content" } },
+                    { overlay_id: "caption:q1", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, max_lines: 1, text: "Nghia có đẳng cấp ko ", text_color: "#183153", type: "static_content" } },
+                    { overlay_id: "caption:q2", source: "remote", caption: { background: { colors: ["#F0C5D6", "#F4D8E2", "#DED0F0"] }, max_lines: 1, text: "Nghĩa thích đi ỉa", text_color: "#183153", type: "static_content" } },
+                    { overlay_id: "caption:q3", source: "remote", caption: { background: { colors: ["#F4BFD3", "#F9D9CF", "#DCCDF5"] }, max_lines: 1, text: "I LOVE MATCHA LATTE", text_color: "#183153", type: "static_content" } },
+                    { overlay_id: "caption:q4", source: "remote", caption: { background: { colors: ["#FFC64B", "#FFEDBF"] }, max_lines: 1, text: "AE 86 MÃI ĐỈNH", text_color: "#183153", type: "static_content" } },
+                    { overlay_id: "caption:q5", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, max_lines: 1, text: "ĐỌC SÁCH ĐÊ", text_color: "#183153", type: "static_content" } },
+                    { overlay_id: "caption:q6", source: "remote", caption: { background: { colors: ["#A8D8EA", "#B8C9F2", "#D5DDF8"] }, max_lines: 1, text: "CKC 🏫", text_color: "#183153", type: "static_content" } },
                     { overlay_id: "caption:du_an_ma", source: "remote", caption: { background: { colors: ["#263238", "#455A64"] }, icon: { data: "👻", type: "emoji" }, max_lines: 1, text: "dự án ma", text_color: "#FFFFFFE6", type: "static_content" } }
+                ]
                 ]
             },
             {
