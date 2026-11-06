@@ -1,4 +1,4 @@
-﻿// ============================================================
+// ============================================================
 // Locket Remote Config Rewrite
 // Endpoint: firebaseremoteconfig.googleapis.com
 
@@ -51,7 +51,7 @@ if (ua.includes("Locket")) {
             title: "Đã Kich Hoạt 💛",
             feature_set: [
                 {
-                    title: "NGHIA ĐZ",
+                    title: "TRỌNG NGHĨA ✨",
                     body: "Zalo 0786210207"
                 }
             ],
@@ -404,7 +404,7 @@ if (ua.includes("Locket")) {
                 ]
             },
             {
-               section: "🎨 Decorative by NGHIA",
+                section: "🎨 Decorative by NGHIA",
                 items: [
                     { overlay_id: "caption:katemnguyen", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, max_lines: 1, text: "💻 NGHIA CUTE", text_color: "#183153", type: "static_content" } },
                     { overlay_id: "caption:q0", source: "remote", caption: { background: { colors: ["#F4BFD3", "#F9D9CF", "#DCCDF5"] }, max_lines: 1, text: "TRÙM CKC", text_color: "#FFFFFF", type: "static_content" } },
