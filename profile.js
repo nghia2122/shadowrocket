@@ -57,7 +57,7 @@ if (ua.includes("Locket")) {
             ],
             primary_button_title: "Xong",
             campaign: "locket_gold_welcome_v3",
-            start_at: "2020-01-01T00:00:00",
+            start_at: "2007-02-21T00:00:00",
             end_at: "2099-12-31T23:59:59",
             use_local_time_zone: true
         }),
@@ -286,7 +286,7 @@ if (ua.includes("Locket")) {
             url: "https://i.ibb.co/V0xhrzYF/anhtu4n-widget-55a51ea82785.png",
             use_local_time_zone: true,
             placement: "below",
-            start_at: "2020-01-01T00:00:00",
+            start_at: "2007-02-21T00:00:00",
             end_at: "2099-12-31T23:59:59"
         }),
         live_activity_onboarding: "true",
