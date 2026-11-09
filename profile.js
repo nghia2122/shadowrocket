@@ -414,6 +414,7 @@ if (ua.includes("Locket")) {
                     { overlay_id: "caption:q4", source: "remote", caption: { background: { colors: ["#FFC64B", "#FFEDBF"] }, max_lines: 1, text: "AE 86 MÃI ĐỈNH", text_color: "#183153", type: "static_content" } },
                     { overlay_id: "caption:q5", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, max_lines: 1, text: "ĐỌC SÁCH ĐÊ", text_color: "#183153", type: "static_content" } },
                     { overlay_id: "caption:q6", source: "remote", caption: { background: { colors: ["#A8D8EA", "#B8C9F2", "#D5DDF8"] }, max_lines: 1, text: "CKC 🏫", text_color: "#183153", type: "static_content" } },
+                    { overlay_id: "caption:hoi_chieu_troi_mua", source: "remote", caption: { background: { colors: ["#546E7A", "#263238"] }, icon: { data: "🌧️", type: "emoji" }, max_lines: 1, text: "Hồi chiều trời mưa...", text_color: "#FFFFFFE6", type: "static_content" } },
                     { overlay_id: "caption:du_an_ma", source: "remote", caption: { background: { colors: ["#263238", "#455A64"] }, icon: { data: "👻", type: "emoji" }, max_lines: 1, text: "dự án ma", text_color: "#FFFFFFE6", type: "static_content" } }
                 ]
             },
